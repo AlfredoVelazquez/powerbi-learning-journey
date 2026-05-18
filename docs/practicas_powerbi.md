@@ -17,3 +17,17 @@
 - Interacciones
 - Diseño de dashboards
 - KPIs
+
+## Práctica 6 - Filtros Top N
+
+### Actividades realizadas
+- Inserción de gráfico de barras agrupadas.
+- Análisis de clientes por suma de importe.
+- Aplicación de filtro por país.
+- Filtrado Top 2 de clientes de España.
+
+### Conceptos practicados
+- Gráficos de barras
+- Filtros visuales
+- Top N
+- Análisis por cliente
