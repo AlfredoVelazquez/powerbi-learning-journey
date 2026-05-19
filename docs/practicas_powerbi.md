@@ -31,3 +31,32 @@
 - Filtros visuales
 - Top N
 - Análisis por cliente
+
+
+## Práctica 8 - Transformaciones básicas en Power Query
+
+### Actividades realizadas
+- Importación de tabla T_CLIENTES desde Excel.
+- Transformación de nombres y apellidos.
+- Creación de columna Nombre Completo.
+- División y transformación de columna NIF.
+- Creación de columnas derivadas de fecha.
+- Creación de segmentación por mes.
+- Creación de visualizaciones analíticas.
+
+### Visualizaciones agregadas
+- KPI Total Clientes
+- Clientes por Año
+- Clientes por Trimestre
+- Tabla de clientes
+- Segmentación de datos por mes
+
+### Conceptos practicados
+- Power Query
+- ETL básico
+- Limpieza de datos
+- Columnas derivadas
+- Manipulación de texto
+- Transformación de fechas
+- Visualizaciones
+- Filtros interactivos
